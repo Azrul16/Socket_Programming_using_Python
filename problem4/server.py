@@ -54,6 +54,6 @@ def udp_server(filename, port):
         sys.exit()  # Terminate the server program after sending
 
 # Usage
-filename = 'D:/Github/socket_programming_computer_network/problem4/file.mp4'  # Replace with the correct path to your multimedia file
+filename = 'file.mp4'  # Replace with the correct path to your multimedia file
 port = 10000  # Port number
 udp_server(filename, port)
