@@ -3,7 +3,7 @@ import socket
 
 HOST = 'localhost'
 PORT = 5000
-FILENAME = 'D:/Github/socket_programming_computer_network/file.txt'
+FILENAME = 'file.txt'
 
 
 # TCP Server Code

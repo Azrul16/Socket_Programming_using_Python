@@ -2,7 +2,7 @@ import socket
 
 HOST = 'localhost'
 PORT = 6000
-FILENAME = 'D:\Github\socket_programming_computer_network\file.txt'
+FILENAME = 'file.txt'
 
 
 # UDP Server Code
